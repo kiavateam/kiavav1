@@ -182,7 +182,7 @@ if not tostring(SUDO):match('%d+') then
     "tools",
     "banhammer"
     },
-    sudo_users = {157059515, SUDO},--Sudo users
+    sudo_users = {247134702, SUDO},--Sudo users
     master_id = SUDO, 
     admins = {},
     disabled_channels = {},
